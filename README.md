@@ -1,4 +1,4 @@
-# Spiking-Neuron-Network
+# Spiking-Neuron-Network using brian simulator
 Network of 50 Izhikevich neurons with 40 excitatory and 10 inhibitory neurons.
 
 Randomly connected network of neurons
